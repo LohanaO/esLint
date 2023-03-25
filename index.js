@@ -1,7 +1,7 @@
 // Mi nombre
 let nombre="Lohana"
 // Mi Apellido
-let apellido= "Orellano"
+let apellido= 'Orellano'
 
 let estudiante=nombre.concat(" ",apellido)
 
